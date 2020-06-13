@@ -55,3 +55,9 @@ height: 300px;
 .carousel-caption{
   margin-bottom: 50px;
 }
+#carouselButton {
+  right:0px;
+  position: absolute;
+  bottom: 0px;
+  z-index: 1;
+}
